@@ -1,10 +1,10 @@
-package com.open.sample.presenter;
+package com.open.ssvip.presenter;
 
 import android.view.ViewGroup;
 
 import com.open.leanback.widget.Presenter;
-import com.open.sample.model.Movie;
-import com.open.sample.view.CardView;
+import com.open.ssvip.model.Movie;
+import com.open.ssvip.view.CardView;
 
 /**
  * Created by hailongqiu on 2016/12/16.

@@ -12,7 +12,7 @@
  * the License.
  */
 
-package com.open.sample.model;
+package com.open.ssvip.model;
 
 import android.util.Log;
 

@@ -1,4 +1,4 @@
-package com.open.sample.presenter;
+package com.open.ssvip.presenter;
 
 import android.graphics.Color;
 

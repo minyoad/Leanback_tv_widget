@@ -1,4 +1,4 @@
-package com.open.sample.model;
+package com.open.ssvip.model;
 
 import java.util.ArrayList;
 import java.util.List;

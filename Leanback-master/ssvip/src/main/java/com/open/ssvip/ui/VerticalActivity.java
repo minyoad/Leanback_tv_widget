@@ -1,9 +1,8 @@
-package com.open.sample.ui;
+package com.open.ssvip.ui;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.RequiresApi;
@@ -19,14 +18,13 @@ import com.open.leanback.widget.ItemBridgeAdapter;
 import com.open.leanback.widget.ListRow;
 import com.open.leanback.widget.OnChildViewHolderSelectedListener;
 import com.open.leanback.widget.Presenter;
-import com.open.leanback.widget.RowPresenter;
 import com.open.leanback.widget.VerticalGridView;
-import com.open.sample.R;
-import com.open.sample.model.Movie;
-import com.open.sample.model.MovieList;
-import com.open.sample.presenter.ButtonListRow;
-import com.open.sample.presenter.CardPresenter;
-import com.open.sample.presenter.NewPresenterSelector;
+import com.open.ssvip.R;
+import com.open.ssvip.model.Movie;
+import com.open.ssvip.model.MovieList;
+import com.open.ssvip.presenter.ButtonListRow;
+import com.open.ssvip.presenter.CardPresenter;
+import com.open.ssvip.presenter.NewPresenterSelector;
 
 import java.util.Collections;
 import java.util.List;

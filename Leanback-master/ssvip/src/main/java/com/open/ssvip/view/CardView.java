@@ -1,4 +1,4 @@
-package com.open.sample.view;
+package com.open.ssvip.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.open.sample.R;
+import com.open.ssvip.R;
 
 /**
  * Author: liuyang

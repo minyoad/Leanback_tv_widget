@@ -1,6 +1,5 @@
-package com.open.sample.presenter;
+package com.open.ssvip.presenter;
 
-import com.open.leanback.widget.ItemAlignmentFacet;
 import com.open.leanback.widget.ListRow;
 import com.open.leanback.widget.ListRowPresenter;
 import com.open.leanback.widget.Presenter;

@@ -1,2 +1,2 @@
 include ':leanback'
-include ':sample'
+include ':ssvip'
